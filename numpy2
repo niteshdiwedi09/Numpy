@@ -1,0 +1,19 @@
+# NumPy 2 – Python Numerical Computing
+
+This project demonstrates the use of NumPy in Python for numerical computing and array manipulation. It covers array creation, indexing, slicing, mathematical operations, statistical functions, and multidimensional arrays.
+
+## Topics Covered
+- NumPy Array Creation
+- Array Indexing and Slicing
+- Array Operations
+- Mathematical Functions
+- Statistical Operations
+- Multidimensional Arrays
+- Array Reshaping
+
+## Technologies Used
+- Python
+- NumPy
+
+## Objective
+To understand NumPy fundamentals and develop practical skills in numerical computing and data manipulation.
